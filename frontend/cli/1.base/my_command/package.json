@@ -1,0 +1,10 @@
+{
+  "name": "my_command",
+  "version": "1.0.0",
+  "description": "My cli",
+  "main": "index.js",
+  "bin": {
+      "my_command": "./index.js"
+  },
+  "license": "MIT"
+}
